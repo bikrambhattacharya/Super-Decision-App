@@ -1,0 +1,11 @@
+{
+  "name": "indecision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bikram",
+  "license": "MIT",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-preset-react": "6.24.1"
+  }
+}
