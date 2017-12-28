@@ -1,0 +1,13 @@
+.option-block{
+    display: flex;
+    justify-content: space-between;
+    padding: $l-size $m-size;
+    border-bottom: 1px solid black;
+
+}
+.option-text{
+    font-size: 2rem;
+    color: wheat;
+    font-weight: 500;
+    word-break: break-all;
+}

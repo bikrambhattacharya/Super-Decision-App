@@ -1,0 +1,25 @@
+.widget{
+    background:#d0aefd;
+    margin-bottom: $xl-size;
+}
+
+//widget header
+
+.widget-header{
+    background: $dark-purple;
+    display: flex;
+    justify-content: space-between;
+    color: wheat;
+    padding-right: $m-size;
+    padding-left: $m-size;
+}
+.widget-header__title{
+}
+
+.widget-body{
+    color: wheat;
+    margin: 0%;
+    padding: $l-size;
+    text-align: center;
+
+}
